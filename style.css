@@ -29,11 +29,16 @@ header {
     flex-direction: row;
     column-gap: 20px;
     margin-bottom: 20px;
+    align-items: center;
 }
 
 #container-title img{
     display: flex;
-    width: 25px;
+    width: 45px;
+}
+
+#container-title h1{
+    font-size: 48px;
 }
 
 .container-faqs{
